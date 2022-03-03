@@ -1,3 +1,5 @@
+
+demo video  https://www.bilibili.com/video/BV1Zq4y1x7RQ/
 ## Obsidian Sample Plugin
 
 This is a sample plugin for Obsidian (https://obsidian.md).
